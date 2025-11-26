@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# FMOD stuff
+
+FMOD Test Project/.cache/**
+FMOD Test Project/.unsaved/**
+FMOD Test Project/.user/**
