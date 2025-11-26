@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1ccc25d7-f2c0-4fcc-a6b4-a75c5d0c5752}">
+		<property name="assetPath">
+			<value>Minecraft Spider Sounds.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>14.550204081632653</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ce2e2391-44ad-40f9-98f2-5da16b5377b6}</destination>
+		</relationship>
+	</object>
+</objects>
