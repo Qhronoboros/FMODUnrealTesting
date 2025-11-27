@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="Workspace" id="{be57d50e-136a-4082-b189-8b936ddd0b78}">
+	<object class="Workspace" id="{1e65aca2-bbec-4017-a63d-b4e8acd0be20}">
 		<property name="builtBanksOutputDirectory">
-			<value>../Content/Alternative/FMOD</value>
+			<value>../Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{3699edae-7d28-4279-9a90-7578fb1e06a2}</destination>
@@ -32,7 +32,7 @@
 			<destination>{859aa316-0ead-48d3-81a4-971298ea9353}</destination>
 		</relationship>
 		<relationship name="platforms">
-			<destination>{9bccd622-cd6e-427b-9019-882ed7449485}</destination>
+			<destination>{4e2e44ba-0da6-42d9-a964-663476f92aab}</destination>
 		</relationship>
 	</object>
 </objects>
